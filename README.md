@@ -1,2 +1,2 @@
 # almari
-almasri adalah lemari (tempat) penyimpanan
+almari adalah lemari (tempat) penyimpanan
